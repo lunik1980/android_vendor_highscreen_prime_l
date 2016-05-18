@@ -355,8 +355,6 @@ PRODUCT_COPY_FILES += \
     vendor/meizu/meilan2/proprietary/lib64/libperfservicenative.so:system/lib64/libperfservicenative.so \
     vendor/meizu/meilan2/proprietary/lib/libui_ext.so:system/lib/libui_ext.so \
     vendor/meizu/meilan2/proprietary/lib64/libui_ext.so:system/lib64/libui_ext.so \
-    vendor/meizu/meilan2/proprietary/lib/libui.so:system/lib/libui.so \
-    vendor/meizu/meilan2/proprietary/lib64/libui.so:system/lib64/libui.so \
     vendor/meizu/meilan2/proprietary/usr/keylayout/ACCDET.kl:system/usr/keylayout/ACCDET.kl \
     vendor/meizu/meilan2/proprietary/usr/keylayout/AW9201_ts.kl:system/usr/keylayout/AW9201_ts.kl \
     vendor/meizu/meilan2/proprietary/usr/keylayout/mtk-kpd.kl:system/usr/keylayout/mtk-kpd.kl \
