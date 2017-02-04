@@ -1,4 +1,4 @@
-Vendor Repo for the Meizu Meilan 2 (m2)
+Vendor Repo for the highscreen_prime_l
 =======================================
 
 Contains blobs (binaries) specific for m2.
