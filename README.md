@@ -1,4 +1,4 @@
-Vendor Repo for the highscreen_prime_l
+Vendor Repo for the Highscreen Prime L
 =======================================
 
 Contains blobs (binaries) specific for m2.
